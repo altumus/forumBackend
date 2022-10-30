@@ -1,0 +1,24 @@
+{
+  "name": "forumbackend",
+  "version": "1.0.0",
+  "description": "forumbackend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altumus/forumBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altumus/forumBackend/issues"
+  },
+  "homepage": "https://github.com/altumus/forumBackend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.8.0"
+  }
+}
